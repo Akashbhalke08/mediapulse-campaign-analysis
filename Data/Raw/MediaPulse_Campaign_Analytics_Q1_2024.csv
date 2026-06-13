@@ -1,0 +1,16 @@
+Campaign_ID,Campaign_Name,Brand,Channel,Region,Start_Date,End_Date,Emails_Sent,Open_Rate(%),Click_Rate(%),Conversions,Revenue(USD),Media_Coverage,Sentiment,Campaign_Manager
+MP001,Spring Product Reveal,NovaBev,Email,North America,01-01-2024,2024-01-31,52000,18.2,3.2,320,9600,142,Positive,Sarah Mitchell
+MP002,Awareness Drive Q1,NovaBev,Social Media,EMEA,03-01-2024,2024-01-31,47000,21.4,4.1,410,12300,98,Neutral,James Okafor
+MP003,Winter Clearance Blast,RetailEdge,Email,North America,15-01-2024,2024-01-28,31000,15.6,2.8,168,5040,67,Positive,Priya Nair
+MP004,Spring Product Reveal,NovaBev,Email,North America,01-02-2024,2024-02-29,52000,,5.1,510,15300,189,Positive,Sarah Mitchell
+MP005,Awareness Drive Q1,NovaBev,Social Media,APAC,01-02-2024,2024-02-28,47000,24.3,4.8,480,14400,201,Positive,James Okafor
+MP006,Crisis Response,RetailEdge,PR,North America,10-02-2024,2024-02-20,32000,38.1,-2.1,0,0,312,Negative,Priya Nair
+MP007,Spring Product Reveal,NovaBev,Email,North America,01-03-2024,2024-03-31,52000,35.4,8.4,840,25200,267,Positive,Sarah Mitchell
+MP008,Awareness Drive Q1,NovaBev,Social Media,EMEA,01-03-2024,2024-03-31,47000,29.1,6.2,620,18600,178,Positive,James Okafor
+MP009,Spring Push Finale,RetailEdge,Email,APAC,01-03-2024,2024-03-31,52000,35.4,8.4,840,25200,267,Positive,Priya Nair
+MP010,Winter Clearance Blast,RetailEdge,Email,North America,15-01-2024,2024-01-28,31000,15.6,2.8,168,5040,67,Positive,Priya Nair
+MP011,Influencer Collab,TrendWave,Social Media,APAC,05-02-2024,2024-02-25,28000,31.2,7.3,390,11700,145,Positive,Aiko Tanaka
+MP012,Influencer Collab,TrendWave,Social Media,APAC,05-02-2024,2024-02-25,28000,31.2,7.3,390,11700,145,Positive,Aiko Tanaka
+MP013,Rebranding Launch,UrbanNest,PR,EMEA,12-03-2024,2024-03-30,15000,42.5,9.1,275,8250,198,Positive,Leo Fernandez
+MP014,Retention Campaign,NovaBev,Email,North America,20-03-2024,2024-03-31,60000,99999,6.8,720,21600,134,Positive,Sarah Mitchell
+MP015,Crisis Response,RetailEdge,PR,North America,10-02-2024,2024-02-20,32000,38.1,2.4,185,5550,312,Negative,Priya Nair
